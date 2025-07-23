@@ -1,0 +1,1 @@
+this is where you can learn sql in a better way
